@@ -3,44 +3,6 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.0.4](https://github.com/ionic-team/capacitor-barcode-scanner/compare/v2.0.3...v2.0.4) (2025-08-20)
-
-**Note:** Version bump only for package root
-
-
-
-
-
-## [2.0.3](https://github.com/ionic-team/capacitor-barcode-scanner/compare/v2.0.1...v2.0.3) (2025-03-17)
-
-### Bug Fixes
-
-* (android) Properly handle parameters ([#68](https://github.com/ionic-team/capacitor-barcode-scanner/pull/68))
-
-* (ios) Properly handle error cases ([#67](https://github.com/ionic-team/capacitor-barcode-scanner/pull/67))
-
-## [2.0.1](https://github.com/ionic-team/capacitor-barcode-scanner/compare/v2.0.0...v2.0.1) (2025-02-25)
-
-### Bug Fixes
-
-* (web) Don't close scanner when no barcode is detected ([#27](https://github.com/ionic-team/capacitor-barcode-scanner/pull/27))
-
-### Dependencies
-
-* (android) Update dependency location for `ionbarcode` ([#57](https://github.com/ionic-team/capacitor-barcode-scanner/pull/57))
-
-# [2.0.0](https://github.com/ionic-team/capacitor-barcode-scanner/compare/v1.0.4...v2.0.0) (2024-03-15)
-
-### ⚠ BREAKING CHANGES
-
-* Updated to support Capacitor 7
-* Minimum Android SDK version increased to align with Capacitor 7 requirements
-* Minimum iOS deployment target increased to align with Capacitor 7 requirements
-
-### Features
-
-* Add support for Capacitor 7
-
 ## [1.0.4](https://github.com/ionic-team/capacitor-barcode-scanner/compare/v1.0.3...v1.0.4) (2024-12-10)
 
 
