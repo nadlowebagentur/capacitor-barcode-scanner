@@ -1,6 +1,5 @@
 {
   "name": "root",
-  "private": true,
   "scripts": {
     "lint": "pnpm lerna run lint",
     "fmt": "pnpm lerna run fmt",
