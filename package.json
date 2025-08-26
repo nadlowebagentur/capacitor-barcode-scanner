@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "version": "1.0.4",
   "scripts": {
     "lint": "pnpm lerna run lint",
     "fmt": "pnpm lerna run fmt",
