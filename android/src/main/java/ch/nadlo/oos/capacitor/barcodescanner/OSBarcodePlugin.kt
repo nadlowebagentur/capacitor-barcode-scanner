@@ -1,4 +1,4 @@
-package com.capacitorjs.barcodescanner
+package ch.nadlo.oos.capacitor.barcodescanner
 
 import android.content.Intent
 import androidx.activity.result.ActivityResult
