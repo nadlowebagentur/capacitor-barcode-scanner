@@ -1,6 +1,6 @@
 {
   "name": "@nadlowebagentur/capacitor-device-info",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Allow to get specific device info",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
