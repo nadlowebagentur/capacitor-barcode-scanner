@@ -1,6 +1,6 @@
 {
-  "name": "@nadlowebagentur/capacitor-device-info",
-  "version": "0.0.3",
+  "name": "@nadlowebagentur/capacitor-barcode-scanner",
+  "version": "0.0.1",
   "description": "Allow to get specific device info",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nadlowebagentur/capacitor-device-info.git"
+    "url": "git+https://github.com/nadlowebagentur/capacitor-barcode-scanner.git"
   },
   "bugs": {
-    "url": "https://github.com/nadlowebagentur/capacitor-device-info/issues"
+    "url": "https://github.com/nadlowebagentur/capacitor-barcode-scanner/issues"
   },
   "keywords": [
     "capacitor",
